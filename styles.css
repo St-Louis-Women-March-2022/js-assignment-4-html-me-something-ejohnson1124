@@ -13,8 +13,8 @@ body {
     display: block;
 }
 #mainHeading {
-    text-decoration-color: red;
+    color: red;
 }
-.funParagraph{
-    text-decoration-color: green;
+.funParagraph {
+    color: green;
 }
