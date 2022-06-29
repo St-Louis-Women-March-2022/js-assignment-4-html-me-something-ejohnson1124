@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+/* Write your CSS here! */ 
+div {
+  margin: 50px 50px 50px 50px;
+}
+div {
+    padding: 25px 25px 25px 25px;
+  }
+head
+body {
+    background-color: lightgoldenrodyellow;
+}
+body {
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
