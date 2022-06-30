@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+/* Write your CSS here! */ 
+article {
+  margin: 8px;
+    padding: 25px;
+    display: block;
+    text-align: center;
+  }
+
+body {
+    background-color: rgb(204, 247, 201);
+    margin: 8px;
+    display: block;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+.funParagraph {
+    color: green;
+    text-align: center;
+}
+ head {
+    text-align: center;
+}
+img {
+    align-items: center;
+}
