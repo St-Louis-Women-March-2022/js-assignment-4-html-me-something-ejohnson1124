@@ -1,23 +1,24 @@
 /* Write your CSS here! */ 
-div {
-  margin: 50px 50px 50px 50px;
-}
-div {
-    padding: 25px 25px 25px 25px;
+article {
+  margin: 8px;
+    padding: 25px;
+    display: block;
+    text-align: center;
   }
-div {
-    background-color: rgb(161, 246, 155);
-}
+
 body {
+    background-color: rgb(161, 246, 155);
     margin: 8px;
     display: block;
 }
 #mainHeading {
     color: red;
+    text-align: center;
 }
 .funParagraph {
     color: green;
+    text-align: center;
 }
-div {
+ head {
     text-align: center;
 }
